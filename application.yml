@@ -1,0 +1,7 @@
+
+---
+ profiles: dev #开发环境
+ application:
+  name: microservicecloud-config-rainya-dev
+---
+ profiles: test #测试环境
