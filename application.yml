@@ -5,3 +5,4 @@
   name: microservicecloud-config-rainya-dev
 ---
  profiles: test #测试环境
+  name: microservicecloud-config-rainya-test
